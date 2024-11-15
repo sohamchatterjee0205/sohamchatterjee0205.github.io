@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sohamchatterjee.github.io/sitemap.xml
+Sitemap: https://sohamchatterjee0205.github.io/sitemap.xml
